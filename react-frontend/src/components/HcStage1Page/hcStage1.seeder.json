@@ -1,0 +1,30 @@
+[
+    {
+        "ExternalBody": "Average",
+        "InternalBody": "Average",
+        "DisplayPanel": "Average",
+        "DoorHandle": "Average",
+        "CoinReturnLever": "Average",
+        "CoinReturnPocket": "Average",
+        "DeliveryDoorflap": "Average",
+        "SelectorButton": "Average",
+        "BodySticker": "Average",
+        "ProductCanister": "Average",
+        "Chute": "Average",
+        "Tube": "Average",
+        "CarbonationUnit": "Average",
+        "SyrupCanister": "Average",
+        "Valve": "Average",
+        "MachineFloorBoard": "Average",
+        "PaymentDevice": "Average",
+        "CashlessUnit": "Average",
+        "PSUBoard": "Average",
+        "VendBoard": "Average",
+        "RelaySupply": "Average",
+        "MemoryBoard": "Average",
+        "Remote": "Average",
+        "Compressor": "Average",
+        "CoolingFan": "Average",
+        "IceMaker": "Average"
+    }
+]

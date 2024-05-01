@@ -1,0 +1,172 @@
+[
+    {
+        "__EMPTY_1": "  Machine Inspection Sheet for C&B & COMBO "
+    },
+    {
+        "__EMPTY_1": "Ref No :",
+        "__EMPTY_6": "Branch :"
+    },
+    {
+        "__EMPTY": "Model :",
+        "__EMPTY_5": "Date Inspection :"
+    },
+    {
+        "__EMPTY": "Serial No :",
+        "__EMPTY_5": "Date Recall :"
+    },
+    {
+        "__EMPTY": "Manufacturing Year :",
+        "__EMPTY_5": "Recall Location :"
+    },
+    {
+        "__EMPTY_2": "Stage 1 - Incoming Check",
+        "__EMPTY_6": "Stage 2 - Repair / Overhaul"
+    },
+    {
+        "__EMPTY": "Phisycal Parts",
+        "__EMPTY_2": "A/V",
+        "__EMPTY_3": "Good",
+        "__EMPTY_4": "X-Good",
+        "__EMPTY_5": "X-A/V",
+        "__EMPTY_6": "Service",
+        "__EMPTY_7": "Repair",
+        "Doc No : TM002": "Replace / Exchange with remarks"
+    },
+    {
+        "__EMPTY": "*External Body"
+    },
+    {
+        "__EMPTY": "*Internal Body"
+    },
+    {
+        "__EMPTY": "Display Panel"
+    },
+    {
+        "__EMPTY": "Door Handle"
+    },
+    {
+        "__EMPTY": "Coin Return Lever"
+    },
+    {
+        "__EMPTY": "Coin Return Pocket"
+    },
+    {
+        "__EMPTY": "Delivery Door Flap"
+    },
+    {
+        "__EMPTY": "2nd Door Panel"
+    },
+    {
+        "__EMPTY": "2nd Door Flap"
+    },
+    {
+        "__EMPTY": "Column - Standard"
+    },
+    {
+        "__EMPTY": "Column - Modified"
+    },
+    {
+        "__EMPTY": "Column Flipper"
+    },
+    {
+        "__EMPTY": "*Product Chute"
+    },
+    {
+        "__EMPTY": "*Machine Maintenance"
+    },
+    {
+        "__EMPTY_2": "Stage 1 - Incoming Check",
+        "__EMPTY_6": "Stage 2 - Repair / Overhaul"
+    },
+    {
+        "__EMPTY": "Phisycal Parts",
+        "__EMPTY_2": "A/V",
+        "__EMPTY_3": "Good",
+        "__EMPTY_4": "X-Good",
+        "__EMPTY_5": "X-A/V",
+        "__EMPTY_6": "Service",
+        "__EMPTY_7": "Repair",
+        "Doc No : TM002": "Replace / Exchange with remarks"
+    },
+    {
+        "__EMPTY": "PSU Board"
+    },
+    {
+        "__EMPTY": "Vend Board"
+    },
+    {
+        "__EMPTY": "Relay/Supply Board"
+    },
+    {
+        "__EMPTY": "Memory Board"
+    },
+    {
+        "__EMPTY": "Remote"
+    },
+    {
+        "__EMPTY": "*Compressor"
+    },
+    {
+        "__EMPTY": "*Cooling Fan"
+    },
+    {
+        "__EMPTY": "Wiring"
+    },
+    {
+        "__EMPTY": "Motor"
+    },
+    {
+        "__EMPTY": "Stage 1",
+        "__EMPTY_1": "Name",
+        "__EMPTY_3": "Sign",
+        "__EMPTY_4": "Date",
+        "__EMPTY_5": "Proceed To Stage 2"
+    },
+    {
+        "__EMPTY": "Technician",
+        "__EMPTY_6": "Yes",
+        "Doc No : TM002": "No"
+    },
+    {
+        "__EMPTY": "Supervisor",
+        "__EMPTY_6": "Yes",
+        "Doc No : TM002": "No",
+        "__EMPTY_8": "*mandatory to proceed to stage 2"
+    },
+    {
+        "__EMPTY": "Manager",
+        "__EMPTY_6": "Yes",
+        "Doc No : TM002": "No",
+        "__EMPTY_8": "* only if declared as disposal\r\n   / send to IRM"
+    },
+    {
+        "__EMPTY": "Remarks : "
+    },
+    {
+        "__EMPTY": "Stage 2",
+        "__EMPTY_1": "Name",
+        "__EMPTY_3": "Sign",
+        "__EMPTY_4": "Date",
+        "__EMPTY_5": "Release to Trade"
+    },
+    {
+        "__EMPTY": "Technician",
+        "__EMPTY_6": "Yes",
+        "Doc No : TM002": "No"
+    },
+    {
+        "__EMPTY": "Supervisor",
+        "__EMPTY_6": "Yes",
+        "Doc No : TM002": "No",
+        "__EMPTY_8": "* mandatory before release"
+    },
+    {
+        "__EMPTY": "Manager",
+        "__EMPTY_6": "Yes",
+        "Doc No : TM002": "No",
+        "__EMPTY_8": "* only if declared as disposal\r\n   / send to IRM"
+    },
+    {
+        "__EMPTY": "Remarks : "
+    }
+]

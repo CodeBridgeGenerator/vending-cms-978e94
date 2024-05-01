@@ -1,0 +1,215 @@
+[
+    {
+        "__EMPTY_1": "  Machine Inspection Sheet for H&C"
+    },
+    {
+        "__EMPTY_1": "Ref No :",
+        "__EMPTY_2": "internal tracking no",
+        "__EMPTY_6": "Branch :",
+        "__EMPTY_7": "respected branch"
+    },
+    {
+        "__EMPTY": "Model :",
+        "__EMPTY_2": "machine model",
+        "__EMPTY_5": "Date Inspection :",
+        "__EMPTY_7": "stage 1 inspection is done"
+    },
+    {
+        "__EMPTY": "Serial No :",
+        "__EMPTY_2": "machine serial no",
+        "__EMPTY_5": "Date Recall :",
+        "__EMPTY_7": "date machine recalled from location"
+    },
+    {
+        "__EMPTY": "Manufacturing Year :",
+        "__EMPTY_2": "machine manufacturing year",
+        "__EMPTY_5": "Recall Location :",
+        "__EMPTY_7": "location name"
+    },
+    {
+        "__EMPTY_2": "Stage 1 - Incoming Check",
+        "__EMPTY_6": "Stage 2 - Repair / Overhaul"
+    },
+    {
+        "__EMPTY": "Phisycal Parts",
+        "__EMPTY_2": "A/V",
+        "__EMPTY_3": "Good",
+        "__EMPTY_4": "X-Good",
+        "__EMPTY_5": "X-A/V",
+        "__EMPTY_6": "Service",
+        "__EMPTY_7": "Repair",
+        "Doc No : TM001": "Replace / Exchange with remarks"
+    },
+    {
+        "__EMPTY": "*External Body"
+    },
+    {
+        "__EMPTY": "*Internal Body"
+    },
+    {
+        "__EMPTY": "Display Panel"
+    },
+    {
+        "__EMPTY": "Door Handle"
+    },
+    {
+        "__EMPTY": "Coin Return Lever"
+    },
+    {
+        "__EMPTY": "Coin Return Pocket"
+    },
+    {
+        "__EMPTY": "Delivery Door Flap"
+    },
+    {
+        "__EMPTY": "Selector Button"
+    },
+    {
+        "__EMPTY": "Body Sticker"
+    },
+    {
+        "__EMPTY": "*Product Canister"
+    },
+    {
+        "__EMPTY": "*Chute"
+    },
+    {
+        "__EMPTY": "*Tube"
+    },
+    {
+        "__EMPTY": "*Carbonation Unit"
+    },
+    {
+        "__EMPTY": "*Syrup Canister"
+    },
+    {
+        "__EMPTY": "*Valve"
+    },
+    {
+        "__EMPTY": "*Machine Floor Board"
+    },
+    {
+        "__EMPTY": "Payment Device"
+    },
+    {
+        "__EMPTY": "Cashless Unit"
+    },
+    {
+        "__EMPTY_2": "Stage 1 - Incoming Check",
+        "__EMPTY_6": "Stage 2 - Repair / Overhaul"
+    },
+    {
+        "__EMPTY": "Phisycal Parts",
+        "__EMPTY_2": "A/V",
+        "__EMPTY_3": "Good",
+        "__EMPTY_4": "X-Good",
+        "__EMPTY_5": "X-A/V",
+        "__EMPTY_6": "Service",
+        "__EMPTY_7": "Repair",
+        "Doc No : TM001": "Replace / Exchange with remarks"
+    },
+    {
+        "__EMPTY": "PSU Board",
+        "Doc No : TM001": "to indicate if the parts are taken"
+    },
+    {
+        "__EMPTY": "Vend Board",
+        "Doc No : TM001": "from other machine "
+    },
+    {
+        "__EMPTY": "Relay/Supply Board",
+        "Doc No : TM001": "to write the serial number of"
+    },
+    {
+        "__EMPTY": "Memory Board",
+        "Doc No : TM001": "the other machine"
+    },
+    {
+        "__EMPTY": "Remote"
+    },
+    {
+        "__EMPTY": "*Compressor"
+    },
+    {
+        "__EMPTY": "*Cooling Fan"
+    },
+    {
+        "__EMPTY": "*Ice Maker"
+    },
+    {
+        "__EMPTY": "Stage 1",
+        "__EMPTY_1": "Name",
+        "__EMPTY_3": "Sign",
+        "__EMPTY_4": "Date",
+        "__EMPTY_5": "Proceed To Stage 2"
+    },
+    {
+        "__EMPTY": "Technician",
+        "__EMPTY_6": "Yes",
+        "Doc No : TM001": "No"
+    },
+    {
+        "__EMPTY": "Supervisor",
+        "__EMPTY_6": "Yes",
+        "Doc No : TM001": "No",
+        "__EMPTY_8": "*mandatory to proceed to stage 2"
+    },
+    {
+        "__EMPTY": "Manager",
+        "__EMPTY_6": "Yes",
+        "Doc No : TM001": "No",
+        "__EMPTY_8": "* only if declared as disposal"
+    },
+    {
+        "__EMPTY": "Remarks : ",
+        "__EMPTY_1": "Details on why the machine cant proceed to stage 2 / proceed for disposal"
+    },
+    {
+        "__EMPTY": "Stage 2",
+        "__EMPTY_1": "Name",
+        "__EMPTY_3": "Sign",
+        "__EMPTY_4": "Date",
+        "__EMPTY_5": "Release to Trade"
+    },
+    {
+        "__EMPTY": "Technician",
+        "__EMPTY_6": "Yes",
+        "Doc No : TM001": "No"
+    },
+    {
+        "__EMPTY": "Supervisor",
+        "__EMPTY_6": "Yes",
+        "Doc No : TM001": "No",
+        "__EMPTY_8": "* mandatory before release"
+    },
+    {
+        "__EMPTY": "Manager",
+        "__EMPTY_6": "Yes",
+        "Doc No : TM001": "No",
+        "__EMPTY_8": "* only if declared as disposal"
+    },
+    {
+        "__EMPTY": "Remarks : ",
+        "__EMPTY_1": "Details on why the machine cant proceed to trade"
+    },
+    {
+        "RefNo": "20240329",
+        "Model": "Mitsubishi",
+        "SerialNo": "AE86",
+        "ManuYear": "2016",
+        "Branch": "Taman Berjaya",
+        "DateInspec": "2024-03-29T07:31:34.533Z",
+        "DateRecall": "2024-03-29T07:31:34.533Z",
+        "RecallLoc": "Berjaya"
+    },
+    {
+        "RefNo": "asd",
+        "Model": "asd",
+        "SerialNo": "asd",
+        "ManuYear": "asd",
+        "Branch": "asd",
+        "DateInspec": "2024-03-29T07:35:30.642Z",
+        "DateRecall": "2024-03-29T07:35:30.642Z",
+        "RecallLoc": "asd"
+    }
+]
